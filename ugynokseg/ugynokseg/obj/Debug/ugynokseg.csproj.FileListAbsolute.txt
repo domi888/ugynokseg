@@ -1,0 +1,10 @@
+E:\UDownloads\dom\visual studio\gyak2.0\ugynokseg\ugynokseg\bin\Debug\ugynokseg.exe.config
+E:\UDownloads\dom\visual studio\gyak2.0\ugynokseg\ugynokseg\bin\Debug\ugynokseg.exe
+E:\UDownloads\dom\visual studio\gyak2.0\ugynokseg\ugynokseg\bin\Debug\ugynokseg.pdb
+E:\UDownloads\dom\visual studio\gyak2.0\ugynokseg\ugynokseg\obj\Debug\ugynokseg.csproj.AssemblyReference.cache
+E:\UDownloads\dom\visual studio\gyak2.0\ugynokseg\ugynokseg\obj\Debug\ugynokseg.Form1.resources
+E:\UDownloads\dom\visual studio\gyak2.0\ugynokseg\ugynokseg\obj\Debug\ugynokseg.Properties.Resources.resources
+E:\UDownloads\dom\visual studio\gyak2.0\ugynokseg\ugynokseg\obj\Debug\ugynokseg.csproj.GenerateResource.cache
+E:\UDownloads\dom\visual studio\gyak2.0\ugynokseg\ugynokseg\obj\Debug\ugynokseg.csproj.CoreCompileInputs.cache
+E:\UDownloads\dom\visual studio\gyak2.0\ugynokseg\ugynokseg\obj\Debug\ugynokseg.exe
+E:\UDownloads\dom\visual studio\gyak2.0\ugynokseg\ugynokseg\obj\Debug\ugynokseg.pdb
